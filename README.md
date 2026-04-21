@@ -84,7 +84,7 @@ Before any analysis, I performed a full data quality check:
 - This is the single most critical business problem in the dataset
 - Amazon repeat purchase rate: 90%+ — Olist has a fundamental retention gap
 - Screenshot 
-![Advanced Analysis Check](Orders_Customers_Payments joined03.png)
+![Advanced Analysis Check](Orders_Customers03.png)
 
 ---
 
