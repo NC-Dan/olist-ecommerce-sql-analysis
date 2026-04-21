@@ -39,7 +39,9 @@ Before any analysis, I performed a full data quality check:
 | delivered status + NULL delivery date | Inconsistency | 8 | Flagged as data quality issue |
 
 **Clean columns:** order_id, customer_id, order_status, order_purchase_timestamp — 
-0 NULLs, 0 duplicates confirmed.
+0 NULLs, 0 duplicates confirmed. 
+- Screenshot
+![Data quality check](data_quality01.png)
 
 ---
 
@@ -56,6 +58,8 @@ Before any analysis, I performed a full data quality check:
 - Boleto: 17.92% revenue | $145.03 avg order value
 - Voucher: 2.37% revenue | $65.70 avg order value — significantly lower
 - Credit card customers spend **$18 more per order** than boleto customers
+- Screenshot
+![Analysis check](Core_Analysis02.png)
 
 ### Finding 3 — Delivery Speed Is a Competitive Problem
 - Only **31.82%** of orders arrive within 1 week
@@ -79,6 +83,8 @@ Before any analysis, I performed a full data quality check:
 - Customer retention rate: **0%**
 - This is the single most critical business problem in the dataset
 - Amazon repeat purchase rate: 90%+ — Olist has a fundamental retention gap
+- Screenshot 
+![Advanced Analysis Check](Orders_Customers_Payments joined03.png)
 
 ---
 
