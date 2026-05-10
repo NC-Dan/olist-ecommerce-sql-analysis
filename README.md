@@ -147,7 +147,7 @@ Real anonymised commercial data from Olist — Brazil's largest e-commerce marke
 
 ## | Other SQL & Excel Projects |
 
-- 🔗[Credit-card-fraud-detection-sql](https://github.com/duncanalyst/credit-card-fraud-detection-sql)
+- 🔗 [Credit Card Fraud Detection — SQL](https://github.com/duncanalyst/credit-card-fraud-detection-sql)
 - 🔗 [IBM HR Attrition Analysis — SQL](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
 - 🔗 [Global Superstore Sales Dashboard — Excel](https://github.com/NC-Dan/global-superstore-sales-dashboard)
 - 🔗 [Kenya Banking Risk Dashboard — Excel](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
