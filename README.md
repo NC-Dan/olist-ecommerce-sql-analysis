@@ -142,6 +142,7 @@ credit card exclusive promotions would deepen this relationship.
 [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 Real anonymised commercial data from Olist — Brazil's largest e-commerce marketplace
 
+🔗 [Olist E-Commerce — Power BI Dashboard](https://github.com/duncanalyst/Olist-ecommerce-powerbi) — Interactive 3-page Power BI dashboard built on this SQL analysis | Drill through, bookmarks, DAX measures | Completes the full Data → SQL → Power BI pipeline
 ---
 
 ## | Other SQL & Excel Projects |
